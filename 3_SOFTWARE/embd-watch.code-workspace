@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c",
+			"stdio.h": "c",
+			"gptimer.h": "c",
+			"task.h": "c",
+			"esp_system.h": "c",
+			"freertos.h": "c",
+			"gpio_types.h": "c",
+			"esp_rom_gpio.h": "c",
+			"compare": "c",
+			"esp_intr_alloc.h": "c",
+			"*.ipp": "cpp",
+			"complex": "c",
+			"stdbool.h": "c",
+			"stddef.h": "c",
+			"lvgl.h": "c",
+			"lv_disp.h": "c",
+			"*.tcc": "c",
+			"ratio": "c",
+			"system_error": "c",
+			"array": "c",
+			"functional": "c",
+			"regex": "c",
+			"tuple": "c",
+			"type_traits": "c",
+			"utility": "c",
+			"lvgl_helpers.h": "c",
+			"numbers": "c",
+			"clock.h": "c",
+			"time.h": "c",
+			"esp_log.h": "c",
+			"esp_sntp.h": "c",
+			"ui.h": "c",
+			"err.h": "c"
+		}
+	}
+}

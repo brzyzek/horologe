@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV840MAPL36DBVRQ1
+D Supervisory Circuits Automotive low-voltage supervisor with adjustable-reset time delay and manual reset
+K
+F https://www.ti.com/lit/gpn/TLV840-Q1
+$ENDCMP
+#
+#End Doc Library

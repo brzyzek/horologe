@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC9236A33CMR-G
+D Switching Voltage Regulators 600mA Synchronous Step-Down DCDC Converter
+K
+F https://www.torexsemi.com/file/xc9235/XC9235-XC9236-XC9237.pdf
+$ENDCMP
+#
+#End Doc Library

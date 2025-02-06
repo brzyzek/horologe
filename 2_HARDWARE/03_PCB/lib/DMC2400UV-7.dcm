@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMC2400UV-7
+D Dual N/P-Channel-Channel MOSFET, 1 A, 700 mA, 20 V, 6-Pin SOT-563 Diodes Inc DMC2400UV-7
+K
+F https://www.diodes.com/assets/Datasheets/DMC2400UV.pdf
+$ENDCMP
+#
+#End Doc Library

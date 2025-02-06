@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SM13B-GHS-TB_LF__SN_
+D CONN HEADER SMD R/A 13POS 1.25MM
+K
+F https://datasheet.lcsc.com/szlcsc/2004241811_JST-Sales-America-SM13B-GHS-TB-LF-SN_C515957.pdf
+$ENDCMP
+#
+#End Doc Library

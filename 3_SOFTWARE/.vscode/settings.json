@@ -1,0 +1,26 @@
+{
+  "idf.espIdfPath ": "$HOME/esp/4.4/esp-idf",
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyUSB0",
+  "files.associations": {
+    "gpio.h": "c",
+    "stdio.h": "c",
+    "gptimer.h": "c",
+    "task.h": "c",
+    "esp_system.h": "c",
+    "freertos.h": "c",
+    "gpio_types.h": "c",
+    "esp_rom_gpio.h": "c",
+    "compare": "c",
+    "chrono": "c",
+    "functional": "c"
+  },
+
+  "cmake.configureOnOpen": false,
+  
+}
